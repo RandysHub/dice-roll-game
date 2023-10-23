@@ -1,0 +1,14 @@
+C:\Users\Randy\code\Microsoft C# Course\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\Randy\code\Microsoft C# Course\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\Randy\code\Microsoft C# Course\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\Randy\code\Microsoft C# Course\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\Randy\code\Microsoft C# Course\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\Randy\code\Microsoft C# Course\TestProject\obj\Debug\net7.0\ref\TestProject.dll
